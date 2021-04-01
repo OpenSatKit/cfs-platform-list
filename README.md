@@ -11,23 +11,19 @@ A list of core Flight System (cFS) community platform ports
   </tr>
   <tr>
     <td><b>Processor</b></td>
-    <td>Aitech SP0-S</td>
+    <td>Aitech SP0-S with <a href="https://www.qemu.org/">QEMU</a> model</td>
   </tr>
   <tr>
     <td><b>Operating System</b></td>
     <td>Linux</td>
   </tr>
   <tr>
-    <td><b>License</b></td>
-    <td>TBD</td>
-  </tr>
-  <tr>
     <td><b>Respository</b></td>
-    <td>TBD</td>
+    <td>Coming soon...</td>
   </tr>
   <tr>
     <td><b>Notes</b></td>
-    <td>TBD</td>
+    <td><a href="https://www.intelligent-aerospace.com/satcom/article/16543467/aitech-and-embedded-flight-systems-team-up-to-integrate-nasas-cfs-into-a-space-sbc">Aitech and Embedded Flight Systems team up to integrate NASA's cFS into a space SBC</a></td>
   </tr>
 </table>
 
