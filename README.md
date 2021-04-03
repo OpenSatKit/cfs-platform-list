@@ -6,8 +6,8 @@ A list of core Flight System (cFS) community platform ports
 
 <table>
   <tr>
-    <th>Sponsor</th>
-    <th><a href="https://www.efsi.com/">Embedded Flight Systems</a></th>
+    <th align="left">Sponsor</th>
+    <th align="left"><a href="https://www.efsi.com/">Embedded Flight Systems</a></th>
   </tr>
   <tr>
     <td><b>Processor</b></td>
@@ -24,6 +24,29 @@ A list of core Flight System (cFS) community platform ports
   <tr>
     <td><b>Notes</b></td>
     <td><a href="https://www.intelligent-aerospace.com/satcom/article/16543467/aitech-and-embedded-flight-systems-team-up-to-integrate-nasas-cfs-into-a-space-sbc">Aitech and Embedded Flight Systems team up to integrate NASA's cFS into a space SBC</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th align="left">Sponsor</th>
+    <th align="left"><a href="https://github.com/pztrick">Patrick Paul</a></th>
+  </tr>
+  <tr>
+    <td><b>Processor</b></td>
+    <td>Raspberry Pi 3+</td>
+  </tr>
+  <tr>
+    <td><b>Operating System</b></td>
+    <td>Raspian</td>
+  </tr>
+  <tr>
+    <td><b>Respository</b></td>
+    <td>https://github.com/pztrick/cfs-raspberrypi</td>
+  </tr>
+  <tr>
+    <td><b>Notes</b></td>
+    <td>This builds for a 64-bit aarch64 Ubuntu image Raspberry Pi 3+</td>
   </tr>
 </table>
 
