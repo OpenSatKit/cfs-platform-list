@@ -46,7 +46,7 @@ A list of core Flight System (cFS) community platform ports
   </tr>
   <tr>
     <td><b>Notes</b></td>
-    <td>This builds for a 64-bit aarch64 Ubuntu image Raspberry Pi 3+</td>
+    <td>This builds for a 64-bit arch64 Ubuntu image Raspberry Pi 3+</td>
   </tr>
 </table>
 
