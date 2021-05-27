@@ -1,4 +1,4 @@
-# cFS-Platforms
+# cFS Platform List
 
 A list of core Flight System (cFS) community platform ports
 
