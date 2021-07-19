@@ -38,7 +38,7 @@ A list of core Flight System (cFS) community platform ports
   </tr>
   <tr>
     <td><b>Operating System</b></td>
-    <td>Raspian</td>
+    <td>Raspbian</td>
   </tr>
   <tr>
     <td><b>Respository</b></td>
