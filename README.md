@@ -54,4 +54,4 @@ A list of core Flight System (cFS) community platform ports
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [OpenSatKit](https://github.com/OpenSatKit/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit/wiki) has waived all copyright and related or neighboring rights to this work.
