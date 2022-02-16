@@ -6,12 +6,60 @@ A list of core Flight System (cFS) community platform ports
 
 <table>
   <tr>
-    <th align="left">Sponsor</th>
-    <th align="left"><a href="https://www.efsi.com/">Embedded Flight Systems</a></th>
+    <th align="left"><b>Sponsor</b></th>
+    <th align="left"><b><a href="https://github.com/alanc98">Alan Cudmore</a></b></th>
   </tr>
   <tr>
     <td><b>Processor</b></td>
-    <td>Aitech SP0-S with <a href="https://www.qemu.org/">QEMU</a> model</td>
+    <td><a href="https://beagleboard.org/black">Beaglebobe Black</a></td>
+  </tr>
+  <tr>
+    <td><b>Operating System</b></td>
+    <td><a href="https://docs.rtems.org">RTEMS</a></td>
+  </tr>
+  <tr>
+    <td><b>Respository</b></td>
+    <td>https://github.com/alanc98/rtems-cfs-demo</td>
+  </tr>
+  <tr>
+    <td><b>Notes</b></td>
+    <td>This is the repository for the <a href="http://flightsoftware.jhuapl.edu/workshop/FSW2022">2022 FSW Workshop</a> Beaglebone Black RTEMS core Flight System demo.</td>
+  </tr>
+  <tr>
+    <td>*****************</td>
+    <td>*****************************************************************************************************************</td>
+  </tr>
+  <tr>
+    <th align="left">Sponsor</th>
+    <th align="left"><a href="https://metecs.com/">METECS</a></th>
+  </tr>
+  <tr>
+    <td><b>Processor</b></td>
+    <td><a href="https://www.freertos.org/FreeRTOS-simulator-for-Windows.html">FreeRTOS Windows Simulator</a></td>
+  </tr>
+  <tr>
+    <td><b>Operating System</b></td>
+    <td><a href="https://www.freertos.org/">FreeRTOS</a></td>
+  </tr>
+  <tr>
+    <td><b>Respository</b></td>
+    <td>https://github.com/METECS/OSAL-PC-FreeRTOS</td>
+  </tr>
+  <tr>
+    <td><b>Notes</b></td>
+    <td>This repository contains an OSAL for FreeRTOS, specifically FreeRTOS running in the FreeRTOS Windows Simulator.</td>
+  </tr>
+  <tr>
+    <td>*****************</td>
+    <td>*****************************************************************************************************************</td>
+  </tr>
+  <tr>
+    <th align="left">Sponsor</th>
+    <th align="left"><a href="https://cfs.gsfc.nasa.gov/">NASA/Goddard</a></th>
+  </tr>
+  <tr>
+    <td><b>Processor</b></td>
+    <td>Any processor that can host Linux</td>
   </tr>
   <tr>
     <td><b>Operating System</b></td>
@@ -19,15 +67,16 @@ A list of core Flight System (cFS) community platform ports
   </tr>
   <tr>
     <td><b>Respository</b></td>
-    <td>Coming soon...</td>
+    <td>https://github.com/nasa/cFS</td>
   </tr>
   <tr>
     <td><b>Notes</b></td>
-    <td><a href="https://www.intelligent-aerospace.com/satcom/article/16543467/aitech-and-embedded-flight-systems-team-up-to-integrate-nasas-cfs-into-a-space-sbc">Aitech and Embedded Flight Systems team up to integrate NASA's cFS into a space SBC</a></td>
+    <td>This repository is a bundle of submodules that make up the cFS framework.</td>
   </tr>
-</table>
-
-<table>
+  <tr>
+    <td>*****************</td>
+    <td>*****************************************************************************************************************</td>
+  </tr>
   <tr>
     <th align="left">Sponsor</th>
     <th align="left"><a href="https://github.com/pztrick">Patrick Paul</a></th>
