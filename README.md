@@ -2,7 +2,7 @@
 
 A list of core Flight System (cFS) community platform ports
 
-[Please contribute!](contributing.md)
+## [Please contribute!](contributing.md)
 
 <table>
   <tr>
